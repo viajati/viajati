@@ -16,7 +16,7 @@ My name is Najma Previa Jati, your friendly neighborhood designer from Yogyakart
   - 🛠 Copywriting
 - ⚡ I have a lot of interest in 3D Rendering (**Pls God teach me Blender and Maya**)
 - 📝 I write blogs and articles
-- 👯 I’m looking to collaborate (and a Mentor!) on making a personal website
+- 👯 I’m looking for collaboration (and a Mentor!) on making a personal website
 - 📙 Check out my [CV](https://drive.google.com/file/d/1wXhNteN3caaEy6DQ5uh4esCreeDsyApS/view?usp=sharing)
 - 🎉 Fun-Fact: I ❤️ reading to an unhealthy level🚀 and listen to a lot Music🎬
 ## 👯 Communities
