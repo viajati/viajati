@@ -18,7 +18,7 @@ My name is Najma Previa Jati, your friendly neighborhood designer from Yogyakart
 - 📝 I write blogs and articles
 - 👯 I’m looking for a collaboration (and a Mentor!) on making a personal website
 - 📙 Check out my [CV](https://drive.google.com/file/d/1wXhNteN3caaEy6DQ5uh4esCreeDsyApS/view?usp=sharing)
-- 🎉 Fun-Fact: I ❤️ reading to an unhealthy level🚀 and listen to a lot Music🎬
+- 🎉 Fun-Fact: I ❤️ reading (no joke) 🚀 and listen to a lot of Music🎬
 ## 👯 Communities
 * GDSC Hipster.
 * Secretary at Technocorner 2022.
