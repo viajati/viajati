@@ -6,7 +6,7 @@
 
 My name is Najma Previa Jati, your friendly neighborhood designer from Yogyakarta, Indonesia and a freshman IT student at Gadjah Mada University with a knack for telling stories, a flair for detail, and a hint of humor. Open to learn new things 🎉
 ## ⚡️ A Few Quick Facts
-- 🔭 I’m currently working a lot of mockups in Figma.
+- 🔭 I’m currently working in making a lot of mockups in Figma.
 - 🌱 Is now trying to be good at JavaScript and CSS ☕
 <img width="490" height="270" src="https://media.giphy.com/media/y9XCVEKx02Q3tyHSD5/giphy.gif" align=right>
 
