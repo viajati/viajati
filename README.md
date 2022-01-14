@@ -4,7 +4,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@captainpiyol-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/captainpiyol)](https://twitter.com/captainpiyol) [![Linkedin Badge](https://img.shields.io/badge/-najmapreviajati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/najma-previa-jati-596a721b5/)](https://www.linkedin.com/in/najma-previa-jati-596a721b5/) [![Gmail Badge](https://img.shields.io/badge/-najma.previa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:najma.previa@gmail.com)](mailto:najma.previa@gmail.com)
 
-My name is Najma Previa Jati, your friendly neighborhood designer from Yogyakarta, Indonesia and an IT student at Gadjah Mada University with a knack for telling stories, a flair for detail, and a hint of humor. Open to learn new things 🎉
+My name is Najma Previa Jati, your friendly neighborhood designer from Yogyakarta, Indonesia and a freshman IT student at Gadjah Mada University with a knack for telling stories, a flair for detail, and a hint of humor. Open to learn new things 🎉
 ## ⚡️ A Few Quick Facts
 - 🔭 I’m currently working a lot of mockups in Figma.
 - 🌱 Is now trying to be good at JavaScript and CSS ☕
@@ -35,5 +35,5 @@ Talk to me about:
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Follow me on Instagram: [Via's Instagram](https://www.instagram.com/viajati/).
-- 🎯 A general artsy Portfolio: [Portfolio](https://drive.google.com/file/d/14MAtQn9Y8i2TXb5jswk7WsF7H2Jt9bmN/view?usp=sharing).
+- 🎯 A general artsy (noob) Portfolio: [Portfolio](https://drive.google.com/file/d/14MAtQn9Y8i2TXb5jswk7WsF7H2Jt9bmN/view?usp=sharing).
 - ⚡ Fun fact: Internet users blink less than usual.
