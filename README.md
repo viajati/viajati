@@ -28,7 +28,7 @@ My name is Najma Previa Jati, your friendly neighborhood designer from Yogyakart
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**. (Still very much learning)
-- Solving Data structure and algorithm questions in **Java and Python**. (Still very much learning as well)
+- Solving Data structure and algorithm questions in **C++ and Python**. (Still very much learning as well)
 - Designing your everyday needs using **Figma, Adobe XD, Photoshop, Coreldraw, Canva**.
 - Drawing how you feel with **Procreate, Medibang, Paint Tool SAI, Clip Studio Paint**.
 - A bit of video editing utilizing **Adobe After Effect, Final Cut Pro, IMovie**.
