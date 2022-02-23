@@ -10,7 +10,7 @@ My name is Najma Previa Jati, your friendly neighborhood designer from Yogyakart
 - Is now trying to be good at JavaScript and CSS ☕
 <img width="490" height="270" src="https://media.giphy.com/media/y9XCVEKx02Q3tyHSD5/giphy.gif" align=right>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+- I enjoy working on
   - 📊 Digital Art
   - 🖼 Math Problems
   - 🛠 Copywriting
