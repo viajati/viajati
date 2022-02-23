@@ -4,12 +4,10 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@captainpiyol-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/captainpiyol)](https://twitter.com/captainpiyol) [![Linkedin Badge](https://img.shields.io/badge/-najmapreviajati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/najma-previa-jati-596a721b5/)](https://www.linkedin.com/in/najma-previa-jati-596a721b5/) [![Gmail Badge](https://img.shields.io/badge/-najma.previa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:najma.previa@gmail.com)](mailto:najma.previa@gmail.com)
 
-My name is Najma Previa Jati, your friendly neighborhood designer from Yogyakarta, Indonesia and a freshman IT student at Gadjah Mada University with a knack for telling stories, a flair for detail, and a hint of humor. Open to learn new things 🎉
+My name is Najma Previa Jati, your friendly neighborhood designer from Yogyakarta, Indonesia and a freshman IT student at Gadjah Mada University with a knack for telling stories, a flair for detail, and a hint of humor. Open to learn about new things.
 ## A Few Quick Facts
 - I’m currently working in making a lot of mockups in Figma.
-- Is now trying to be good at JavaScript and CSS ☕
-<img width="490" height="270" src="https://media.giphy.com/media/y9XCVEKx02Q3tyHSD5/giphy.gif" align=right>
-
+- Is now trying to be good at JavaScript and CSS 
 - I enjoy working on
   - 📊 Digital Art
   - 🖼 Math Problems
@@ -18,7 +16,7 @@ My name is Najma Previa Jati, your friendly neighborhood designer from Yogyakart
 - I write blogs and articles
 - I’m looking for a collaboration (and a Mentor!) on making a personal website
 - 📙 Check out my [CV](https://drive.google.com/file/d/1wXhNteN3caaEy6DQ5uh4esCreeDsyApS/view?usp=sharing)
-- 🎉 Fun-Fact: I ❤️ reading (no joke) 🚀 and listen to a lot of Music🎬
+- Fun-Fact: I ❤️ reading (no joke) and listen to a lot of Music🎬
 ## Communities
 * GDSC Hipster.
 * Secretary at Technocorner 2022.
