@@ -1,7 +1,5 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 [![Twitter Badge](https://img.shields.io/badge/-@captainpiyol-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/captainpiyol)](https://twitter.com/captainpiyol) [![Linkedin Badge](https://img.shields.io/badge/-najmapreviajati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/najma-previa-jati-596a721b5/)](https://www.linkedin.com/in/najma-previa-jati-596a721b5/) [![Gmail Badge](https://img.shields.io/badge/-najma.previa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:najma.previa@gmail.com)](mailto:najma.previa@gmail.com)
 
 My name is Najma Previa Jati, your friendly neighborhood designer from Yogyakarta, Indonesia and a freshman IT student at Gadjah Mada University with a knack for telling stories, a flair for detail, and a hint of humor. Open to learn about new things.
