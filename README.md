@@ -32,4 +32,5 @@ Talk to me about:
 - Ask me about anything an everything.
 - Follow me on Instagram: [Via's Instagram](https://www.instagram.com/viajati/).
 - A general artsy (noob) Portfolio: [Portfolio](https://drive.google.com/file/d/14MAtQn9Y8i2TXb5jswk7WsF7H2Jt9bmN/view?usp=sharing).
+- Check me out on medium: [Medium](https://viajati.medium.com/).
 - Fun fact: Internet users blink less than usual.
