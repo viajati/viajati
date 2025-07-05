@@ -1,6 +1,5 @@
 <h2> 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-@captainpiyol-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/captainpiyol)](https://twitter.com/captainpiyol) 
 [![Linkedin Badge](https://img.shields.io/badge/-najmapreviajati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/najma-previa-jati-596a721b5/)](https://www.linkedin.com/in/najma-previa-jati-596a721b5/) 
 [![Gmail Badge](https://img.shields.io/badge/-najma.previa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:najma.previa@gmail.com)](mailto:najma.previa@gmail.com)
 
@@ -31,9 +30,7 @@ I'm **Najma Previa Jati** - a 3rd year IT student at **National Tsing Hua Univer
 * **KMTETI UGM** HR Staff
 
 ## 📫 Let's Connect
-- Portfolio: [Google Drive](https://drive.google.com/file/d/14MAtQn9Y8i2TXb5jswk7WsF7H2Jt9bmN/view?usp=sharing)
 - Writing: [Medium](https://viajati.medium.com/)
-- CV: [Download Here](https://drive.google.com/file/d/1wXhNteN3caaEy6DQ5uh4esCreeDsyApS/view?usp=sharing)
-- Socials: [Instagram](https://www.instagram.com/viajati/) | [Twitter](https://twitter.com/captainpiyol)
+- Socials: [Instagram](https://www.instagram.com/viajati/) 
 
 Always open to interesting conversations and collaborations!
