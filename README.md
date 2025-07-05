@@ -1,36 +1,39 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-@captainpiyol-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/captainpiyol)](https://twitter.com/captainpiyol) [![Linkedin Badge](https://img.shields.io/badge/-najmapreviajati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/najma-previa-jati-596a721b5/)](https://www.linkedin.com/in/najma-previa-jati-596a721b5/) [![Gmail Badge](https://img.shields.io/badge/-najma.previa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:najma.previa@gmail.com)](mailto:najma.previa@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@captainpiyol-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/captainpiyol)](https://twitter.com/captainpiyol) 
+[![Linkedin Badge](https://img.shields.io/badge/-najmapreviajati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/najma-previa-jati-596a721b5/)](https://www.linkedin.com/in/najma-previa-jati-596a721b5/) 
+[![Gmail Badge](https://img.shields.io/badge/-najma.previa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:najma.previa@gmail.com)](mailto:najma.previa@gmail.com)
 
-My name is Najma Previa Jati, your friendly neighborhood designer from Yogyakarta, Indonesia and a freshman IT student at Gadjah Mada University with a knack for telling stories, a flair for detail, and a hint of humor. Open to learn about new things.
-## A Few Quick Facts
-- I’m currently working in making a lot of mockups in Figma.
-- Is now trying to be good at JavaScript and CSS 
-- I enjoy working on
-  - 📊 Digital Art
-  - 🖼 Math Problems
-  - 🛠 Copywriting
-- I have a lot of interest in 3D Rendering (**Pls God teach me Blender and Maya**)
-- I write blogs and articles
-- I’m looking for a collaboration (and a Mentor!) on making a personal website
-- 📙 Check out my [CV](https://drive.google.com/file/d/1wXhNteN3caaEy6DQ5uh4esCreeDsyApS/view?usp=sharing)
-- Fun-Fact: I ❤️ reading (no joke) and listen to a lot of Music🎬
-## Communities
-* GDSC Hipster.
-* Secretary at Technocorner 2022.
-* Event Coordinator at FindIT! 2022.
-* Tutor at TheAOSP
-* HR i KMTETI UGM
-## Technologies
-Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**. (Still very much learning)
-- Solving Data structure and algorithm questions in **C++ and Python**. (Still very much learning as well)
-- Designing your everyday needs using **Figma, Adobe XD, Photoshop, Coreldraw, Canva**.
-- Drawing how you feel with **Procreate, Medibang, Paint Tool SAI, Clip Studio Paint**.
-- A bit of video editing utilizing **Adobe After Effect, Final Cut Pro, IMovie**.
-## Hello World!!
-- Ask me about anything an everything.
-- Follow me on Instagram: [Via's Instagram](https://www.instagram.com/viajati/).
-- A general artsy (noob) Portfolio: [Portfolio](https://drive.google.com/file/d/14MAtQn9Y8i2TXb5jswk7WsF7H2Jt9bmN/view?usp=sharing).
-- Check me out on medium: [Medium](https://viajati.medium.com/).
-- Fun fact: Internet users blink less than usual.
+I'm **Najma Previa Jati** - a 3rd year IT student at **National Tsing Hua University** with a passion for design and code. Currently exploring the intersection of creativity and technology.
+
+## 🔧 Current Focus
+- 🖌️ Improving my **Data Analytics**, **Figma** and **Blender** skills
+- 🌐 Building web projects with **JavaScript/React**
+- 📝 Writing about my learning journey
+
+## 🛠️ Toolbox
+**Design:**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Creative Suite](https://img.shields.io/badge/-Adobe%20Creative%20Suite-DA1F26?style=flat-square&logo=adobe&logoColor=white)
+![Procreate](https://img.shields.io/badge/-Procreate-000?style=flat-square)
+
+**Development:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## 📚 Past Engagements
+* **GDSC Hipster** Member
+* **Technocorner 2022** Secretary
+* **FindIT! 2022** Event Coordinator
+* **TheAOSP** Tutor
+* **KMTETI UGM** HR Staff
+
+## 📫 Let's Connect
+- Portfolio: [Google Drive](https://drive.google.com/file/d/14MAtQn9Y8i2TXb5jswk7WsF7H2Jt9bmN/view?usp=sharing)
+- Writing: [Medium](https://viajati.medium.com/)
+- CV: [Download Here](https://drive.google.com/file/d/1wXhNteN3caaEy6DQ5uh4esCreeDsyApS/view?usp=sharing)
+- Socials: [Instagram](https://www.instagram.com/viajati/) | [Twitter](https://twitter.com/captainpiyol)
+
+Always open to interesting conversations and collaborations!
