@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-najmapreviajati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/najma-previa-jati-596a721b5/)](https://www.linkedin.com/in/najma-previa-jati-596a721b5/) 
 [![Gmail Badge](https://img.shields.io/badge/-najma.previa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:najma.previa@gmail.com)](mailto:najma.previa@gmail.com)
 
-I'm **Najma Previa Jati** - a 3rd year IT student at **National Tsing Hua University** with a passion for design and code. Currently exploring the intersection of creativity and technology.
+I'm **Najma Previa Jati** - a 3rd year IT student at **National Tsing Hua University** with a passion for design and coding.
 
 ## 🔧 Current Focus
 - 🖌️ Improving my **Data Analytics**, **Figma** and **Blender** skills
